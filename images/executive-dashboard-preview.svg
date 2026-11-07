@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<rect width="1400" height="820" fill="#f5f7fb"/>
+<rect width="1400" height="72" fill="#172033"/>
+<text x="40" y="46" font-family="Arial" font-size="26" fill="white" font-weight="bold">Clearing Analytics Dashboard</text>
+<text x="40" y="105" font-family="Arial" font-size="16" fill="#667085">Executive Summary • October 2026</text>
+<rect x="40" y="130" width="300" height="115" rx="12" fill="white"/><text x="65" y="165" font-family="Arial" font-size="15" fill="#667085">Total Transactions</text><text x="65" y="210" font-family="Arial" font-size="30" fill="#172033" font-weight="bold">2.48M</text><text x="65" y="232" font-family="Arial" font-size="13" fill="#15803d">+12.4%</text><rect x="375" y="130" width="300" height="115" rx="12" fill="white"/><text x="400" y="165" font-family="Arial" font-size="15" fill="#667085">Transaction Amount</text><text x="400" y="210" font-family="Arial" font-size="30" fill="#172033" font-weight="bold">$184.6M</text><text x="400" y="232" font-family="Arial" font-size="13" fill="#15803d">+8.7%</text><rect x="710" y="130" width="300" height="115" rx="12" fill="white"/><text x="735" y="165" font-family="Arial" font-size="15" fill="#667085">Net Clearing Position</text><text x="735" y="210" font-family="Arial" font-size="30" fill="#172033" font-weight="bold">$6.2M</text><text x="735" y="232" font-family="Arial" font-size="13" fill="#15803d">Positive</text><rect x="1045" y="130" width="300" height="115" rx="12" fill="white"/><text x="1070" y="165" font-family="Arial" font-size="15" fill="#667085">Reconciliation Rate</text><text x="1070" y="210" font-family="Arial" font-size="30" fill="#172033" font-weight="bold">99.72%</text><text x="1070" y="232" font-family="Arial" font-size="13" fill="#15803d">On Target</text>
+<rect x="40" y="275" width="850" height="270" rx="12" fill="white"/>
+<text x="65" y="310" font-family="Arial" font-size="18" fill="#172033" font-weight="bold">Daily Transaction Amount</text>
+<polyline points="75,495 140,470 205,485 270,430 335,445 400,390 465,415 530,360 595,375 660,325 725,350 790,300 855,320" fill="none" stroke="#2563eb" stroke-width="5"/>
+<line x1="75" y1="505" x2="855" y2="505" stroke="#d0d5dd"/>
+<rect x="920" y="275" width="440" height="270" rx="12" fill="white"/>
+<text x="945" y="310" font-family="Arial" font-size="18" fill="#172033" font-weight="bold">Clearing by Payment System</text>
+<rect x="955" y="350" width="280" height="28" rx="6" fill="#2563eb"/><text x="1250" y="370" font-family="Arial" font-size="14" fill="#344054">42%</text>
+<rect x="955" y="405" width="220" height="28" rx="6" fill="#7c3aed"/><text x="1190" y="425" font-family="Arial" font-size="14" fill="#344054">33%</text>
+<rect x="955" y="460" width="150" height="28" rx="6" fill="#0891b2"/><text x="1120" y="480" font-family="Arial" font-size="14" fill="#344054">25%</text>
+<rect x="40" y="575" width="640" height="200" rx="12" fill="white"/>
+<text x="65" y="610" font-family="Arial" font-size="18" fill="#172033" font-weight="bold">Operational Monitoring</text>
+<text x="70" y="660" font-family="Arial" font-size="15" fill="#667085">Files Processed</text><text x="500" y="660" font-family="Arial" font-size="18" fill="#172033" font-weight="bold">1,248 / 1,252</text>
+<text x="70" y="705" font-family="Arial" font-size="15" fill="#667085">Exceptions</text><text x="500" y="705" font-family="Arial" font-size="18" fill="#b42318" font-weight="bold">4</text>
+<rect x="710" y="575" width="650" height="200" rx="12" fill="white"/>
+<text x="735" y="610" font-family="Arial" font-size="18" fill="#172033" font-weight="bold">Incoming vs Outgoing</text>
+<rect x="750" y="655" width="220" height="70" rx="8" fill="#e8f0ff"/><text x="785" y="685" font-family="Arial" font-size="15" fill="#344054">Incoming</text><text x="785" y="715" font-family="Arial" font-size="23" fill="#172033" font-weight="bold">$95.4M</text>
+<rect x="1010" y="655" width="220" height="70" rx="8" fill="#f1ecff"/><text x="1045" y="685" font-family="Arial" font-size="15" fill="#344054">Outgoing</text><text x="1045" y="715" font-family="Arial" font-size="23" fill="#172033" font-weight="bold">$89.2M</text>
+</svg>
